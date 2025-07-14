@@ -63,7 +63,6 @@ const Troller: React.FC = () => {
         const closeThreshold = 2;
 
         if (distance < closeThreshold) {
-          // 🔥 Gán luôn vào đúng chuột khi quá gần
           centerX = mouseX;
           centerY = mouseY;
         } else {
