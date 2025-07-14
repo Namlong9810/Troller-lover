@@ -9,7 +9,7 @@ export default function surprisePage() {
       <h2></h2>
 
       <img
-        src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhianNjY3hmY2ZwY2l3c21ya2J4cTV3c3B2a29lNGVnZnA3bGJheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FAFo1M7EC4gRZ4HETH/giphy.gif"
+        src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZ0emlibXZudmlpNmIzcThvd3VvOXcwaDNtMnZ6eHk0b3h2MHptcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V2JgPXdvuCKrDo9uem/giphy.gif"
         alt="Con chó"
       ></img>
     <Fireworks/>
