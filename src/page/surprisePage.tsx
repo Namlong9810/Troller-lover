@@ -1,4 +1,5 @@
 import "../styles.css";
+import "../css/SurPage.css"
 import Fireworks from "../confettiEffect/Firework";
 import SchoolPride from "../confettiEffect/SchoolPride";
 

@@ -3,7 +3,7 @@ import { useEffect } from "react";
 
 const SchoolPride: React.FC = () => {
     useEffect(() => {
-        const end = Date.now() + (15 * 1000);
+        const end = Date.now() + (20 * 1000);
 
         // go Buckeyes!
         const colors = ['#2196f3', '#bb3e03'];

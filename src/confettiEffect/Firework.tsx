@@ -3,7 +3,7 @@ import { useEffect } from 'react';
 
 const ConfettiRain: React.FC = () => {
     useEffect(() => {
-        const duration = 15 * 1000;
+        const duration = 20 * 1000;
         const animationEnd = Date.now() + duration;
         const defaults = { startVelocity: 30, spread: 360, ticks: 60, zIndex: 0 };
 
