@@ -5,14 +5,17 @@
   background-color: whitesmoke;
   color: tomato;
   border-radius: 8px;
-  transition: transform 0.3s ease;
+  transition: top 0.3s ease, left 0.3s ease;
+  background-color: white;
+  transform: translateX(40px);
 }
 
 #simple-btn {
+  position: absolute;
   width: 80px;
   height: 20px;
-  margin-right: 50px;
   background-color: tomato;
   color: whitesmoke;
   border-radius: 8px;
+  transition: top 0.1s ease, left 0.1s ease;
 }
