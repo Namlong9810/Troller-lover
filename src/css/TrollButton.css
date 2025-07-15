@@ -17,5 +17,5 @@
   background-color: tomato;
   color: whitesmoke;
   border-radius: 8px;
-  transition: top 0.15s ease, left 0.2s ease;
+  transition: top 0.1s ease, left 0.15s ease;
 }

@@ -2,6 +2,7 @@ import "../styles.css";
 import "../css/SurPage.css"
 import Fireworks from "../confettiEffect/Firework";
 import SchoolPride from "../confettiEffect/SchoolPride";
+import SoundEffect from "../sound/soundEffect";
 
 export default function surprisePage() {
   return (
@@ -20,6 +21,7 @@ export default function surprisePage() {
       ></img>
     <Fireworks/>
     <SchoolPride/>
+    <SoundEffect/>
     </div>
   );
 }
