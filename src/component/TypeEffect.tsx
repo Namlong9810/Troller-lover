@@ -19,6 +19,7 @@ export default function TypeEffect() {
         ],
         typeSpeed: 50,
         // backSpeed: 30,
+        backDelay: 4 * 1000,
         loop: true,
         showCursor: false
         // cursorChar: "|", 
