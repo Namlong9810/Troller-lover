@@ -17,7 +17,7 @@ export default function SoundEffect() {
 
     useEffect(() => {
         if (audioRef.current) { 
-            audioRef.current.volume = 0.5; // Set volume to 50%
+            audioRef.current.volume = 0.2; // Set volume to 50%
             audioRef.current.play().catch(error => {
                 console.error("Error playing sound:", error);
             });
